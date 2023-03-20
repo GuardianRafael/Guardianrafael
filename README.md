@@ -15,3 +15,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuardianRafael&layout=compact&langs_count=16&theme=yeblu" />
 </a>
 </div>
+<div>
+  <img align="center" src="https://github.com/GuardianRafael/GuardianRafael/blob/output/github-contribution-grid-snake.svg" />
+</div>
