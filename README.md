@@ -1,9 +1,9 @@
-### First time here? <img src="https://cdn.picrew.me/shareImg/org/202304/54346_W6IdgwWX.png"/>
+### First time here? 
 
-<p>My name's Rafael.</p>
+<p>My name's Rafael.</p><img height="300px" align="right"src="https://cdn.picrew.me/shareImg/org/202304/54346_W6IdgwWX.png"/>
 <p>In my personal life I am a shy person, vegetarian and wine lover.</p>  
 <p>I am fond of science fiction and fantasy books, but I spend most of my time with my computer.</p>
-<p>I'm enthusiastic about technology, I try to learn everything, I can't stay stagnant in just one subject, especially in such a vast area of ​​information.</p>
+<p>I'm enthusiastic about technology, I try to learn everything, I can't stay stagnant in just one subject, especially in such a vast area of information.</p>
 <p>As a professional, I'm the guy who faces big things to feel challenged. If my team has a problem, I want to be the one to solve it.</p>
 <p>If you want to talk to me, contact me using the links below.👇</p>
 
