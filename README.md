@@ -1,4 +1,4 @@
-### First time here?
+### First time here? <img src="https://cdn.picrew.me/shareImg/org/202304/54346_W6IdgwWX.png"/>
 
 <p>My name's Rafael.</p>
 <p>In my personal life I am a shy person, vegetarian and wine lover.</p>  
