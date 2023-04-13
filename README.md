@@ -1,5 +1,5 @@
 ### First time here? 
-<img align="right" height="300px" src=""/>
+<img align="right" height="300px" src="https://im4.ezgif.com/tmp/ezgif-4-6f11093342.gif"/>
 <p>My name's Rafael.</p>
 <p>In my personal life I am a shy person, vegetarian and wine lover.</p>  
 <p>I am fond of science fiction and fantasy books, but I spend most of my time with my computer.</p>
