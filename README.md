@@ -1,12 +1,9 @@
 ### First time here? 
 <img align="right" height="300px" src=""/>
-<p>My name's Rafael.</p>
-<p>In my personal life I am a shy person, vegetarian and wine lover.</p>  
-<p>I am fond of science fiction and fantasy books, but I spend most of my time with my computer.</p>
-<p>I'm enthusiastic about technology, I try to learn everything, I can't stay stagnant in just one subject, especially in such a vast area of information.</p>
-<p>As a professional, I'm the guy who faces big things to feel challenged. If my team has a problem, I want to be the one to solve it.</p>
-<p>If you want to talk to me, contact me using the links below.👇</p>
-
+  <p>I am a shy person, vegetarian and wine lover.</p>
+  <p>I like science fiction and fantasy books, but I spend most of my time on the computer.</p>
+  <p>I'm a technology enthusiast, I try to learn everything, I can't stay stagnant in just one subject, especially in such a vast area of ​​information.</p>
+  <p>As a professional, I'm the guy who takes on big things to feel challenged.  If my team has a problem, I want to be there so we can solve it together.</p>
 <div>
   <a href="https://github.com/GuardianRafael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuardianRafael&show_icons=true&theme=yeblu" />
