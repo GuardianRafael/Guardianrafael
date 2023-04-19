@@ -3,7 +3,7 @@
   <p>Hi, my name is Rafael. 
   <p>I am a shy person, vegetarian and wine lover. I like science fiction and fantasy books, but I spend most of my time on the computer.</p>
   <p>Did you mention technology? I try to learn everything, I can't stay stagnant in just one subject, especially in such a vast area of ​​information.</p>
-  <p>As a professional, I'm the guy who takes on big things to feel challenged.  If my team has a problem, I want to be there so we can solve it together.</p>
+  <p>To feel challenged, I like to take on big things.  If my team has a problem, I want to be there to solve it together.</p>
 <div>
   <a href="https://github.com/GuardianRafael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuardianRafael&show_icons=true&theme=yeblu" />
