@@ -1,10 +1,11 @@
 ### First time here? 
-<img max-width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
-  <p>Hi, my name is Rafael. 
-  <p>I am a shy person, vegetarian and wine lover. I like science fiction and fantasy books, but I spend most of my time on the computer.</p>
-  <p>Did you mention technology? I try to learn everything, I can't stay stagnant in just one subject, especially in such a vast area of ​​information.</p>
-  <p>To feel challenged, I like to take on big things.  If my team has a problem, I want to be there to solve it together.</p>
-<div>
+<img align="center" max-width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
+  <p>I introduce myself as Rafael,</p><br>
+<p>I could very well be a character straight from the pages of a science fiction or fantasy book.</p><br>
+<p>After all, I am a devoted fan of these literary genres that transport me to imaginative worlds and characters that capture my attention and make me daydream.</p><br>
+<p>But don't think I'm just a being who lives in fantasy, I'm also an avid technology enthusiast.</p><br>
+<p>I spend hours and hours in front of the computer, but it's not just for fun.</p><br>
+<p>I'm always eager to learn all I can about the subject, after all, the field is so vast and complex that there's never a dull moment when it comes to keeping up with the latest developments.</p><div>
   <a href="https://github.com/GuardianRafael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuardianRafael&show_icons=true&theme=yeblu" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuardianRafael&layout=compact&langs_count=16&theme=yeblu" />
