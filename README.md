@@ -1,5 +1,5 @@
 ### First time here? 
-<img align="right" height="300px" src=""/>
+<img max-width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
   <p>Hi, my name is Rafael. 
   <p>I am a shy person, vegetarian and wine lover. I like science fiction and fantasy books, but I spend most of my time on the computer.</p>
   <p>Did you mention technology? I try to learn everything, I can't stay stagnant in just one subject, especially in such a vast area of ​​information.</p>
