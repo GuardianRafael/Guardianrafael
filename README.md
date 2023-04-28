@@ -1,6 +1,6 @@
-### First time here? 
-<img max-width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
+### First time here?
   <div align="center">
+<img max-width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
   <p>I introduce myself as Rafael,</p><br>
 <p>I could very well be a character straight from the pages of a science fiction or fantasy book.</p><br>
 <p>After all, I am a devoted fan of these literary genres that transport me to imaginative worlds and characters that capture my attention and make me daydream.</p><br>
