@@ -1,6 +1,6 @@
 ### First time here?
   <div align="center">
-<img max-width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
+<img max-width="200px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
   <p>I introduce myself as Rafael,</p><br>
 <p>I could very well be a character straight<br>
   from the pages of a science fiction or fantasy book.</p><br>
