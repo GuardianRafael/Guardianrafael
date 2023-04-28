@@ -1,11 +1,13 @@
 ### First time here? 
-<img align="center" max-width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
+<img max-width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
+  <div align="center">
   <p>I introduce myself as Rafael,</p><br>
 <p>I could very well be a character straight from the pages of a science fiction or fantasy book.</p><br>
 <p>After all, I am a devoted fan of these literary genres that transport me to imaginative worlds and characters that capture my attention and make me daydream.</p><br>
 <p>But don't think I'm just a being who lives in fantasy, I'm also an avid technology enthusiast.</p><br>
 <p>I spend hours and hours in front of the computer, but it's not just for fun.</p><br>
-<p>I'm always eager to learn all I can about the subject, after all, the field is so vast and complex that there's never a dull moment when it comes to keeping up with the latest developments.</p><div>
+<p>I'm always eager to learn all I can about the subject, after all, the field is so vast and complex that there's never a dull moment when it comes to keeping up with the latest developments.</p></div>
+  <div>
   <a href="https://github.com/GuardianRafael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuardianRafael&show_icons=true&theme=yeblu" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuardianRafael&layout=compact&langs_count=16&theme=yeblu" />
