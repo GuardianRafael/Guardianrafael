@@ -1,20 +1,20 @@
 ### First time here?
-<img align="right" width="300px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
+<img align="center" width="400px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
 <div>
 <p>I introduce myself as Rafael,</p><br>
 <p>I could very well be a character straight<br>
   from the pages of a science fiction or fantasy book.</p><br>
 <p>After all, I am a devoted fan of these literary genres<br>
-  that transport me to imaginative worlds and characters that<br>
-  capture my attention and make me daydream.</p><br>
+  that transport me to imaginative worlds and characters<br>
+  that capture my attention and make me daydream.</p><br>
 <p>But don't think I'm just a being who lives in fantasy,<br>
   I'm also an avid technology enthusiast.</p><br>
 <p>I spend hours and hours in front of the computer,<br>
   but it's not just for fun.</p><br>
 <p>I'm always eager to learn all I can about the subject,<br>
   after all, the field is so vast and complex that there's<br>
-  never a dull moment when it comes to keeping up with the<br>
-  latest developments.</p></div>
+  never a dull moment when it comes to keeping up<br>
+  with the latest developments.</p></div>
   <div>
   <a href="https://github.com/GuardianRafael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuardianRafael&show_icons=true&theme=yeblu" />
