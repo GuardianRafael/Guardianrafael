@@ -1,5 +1,5 @@
 ### First time here?
-<img align="left" width="350px" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
+<img align="left" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
 <div>
   <a href="https://github.com/GuardianRafael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuardianRafael&show_icons=true&theme=yeblu" />
