@@ -1,5 +1,5 @@
 ### First time here?
-<div align="center">
+<div align="left">
   <a href="https://github.com/GuardianRafael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuardianRafael&show_icons=true&theme=yeblu" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuardianRafael&layout=compact&langs_count=16&theme=yeblu" />
