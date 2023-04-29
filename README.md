@@ -9,7 +9,7 @@
 <p>I introduce myself as Rafael,<br>
   I could very well be a character straight from the pages of a science fiction or fantasy book. After all, I am a devoted fan of these literary genres that transport me to imaginative worlds and characters that capture my attention and make me daydream. But don't think I'm just a being who lives in fantasy, I'm also an avid technology enthusiast.I spend hours and hours in front of the computer,but it's not just for fun. I'm always eager to learn all I can about the subject, after all, the field is so vast and   complex that there's never a dull moment when it comes to keeping up with the latest developments.</p></div>
 
-<div style="display: inline_block"><br>
+<div width="200px" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
