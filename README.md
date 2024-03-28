@@ -1,5 +1,5 @@
 ### First time here?
-<img align="left" width="100" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
+<img align="left" width="300" src="https://cdn.dribbble.com/users/189524/screenshots/2103470/media/2a1832cdc76d2bb9e30ad1b91498912a.gif"/>
 <p><h3>I introduce myself as Rafael</h3></p>
   <h6>I could very well be a character straight from the pages of a science fiction or fantasy book. After all, I am a devoted fan of these literary genres that transport me to imaginative worlds and characters that capture my attention and make me daydream. But don't think I'm just a being who lives in fantasy, I'm also an avid technology enthusiast.I spend hours and hours in front of the computer,but it's not just for fun. I'm always eager to learn all I can about the subject, after all, the field is so vast and   complex that there's never a dull moment when it comes to keeping up with the latest developments.</h6>
 
